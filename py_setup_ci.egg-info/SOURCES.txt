@@ -1,0 +1,8 @@
+py_setup_ci/__init__.py
+py_setup_ci/py_module.py
+py_setup_ci.egg-info/PKG-INFO
+py_setup_ci.egg-info/SOURCES.txt
+py_setup_ci.egg-info/dependency_links.txt
+py_setup_ci.egg-info/top_level.txt
+tests/__init__.py
+tests/test_py_module.py

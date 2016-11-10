@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: py-setup-ci
+Version: 0.1.0-dev
+Summary: Python packaging and CI test
+Home-page: UNKNOWN
+Author: Nabeel
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: pyrabbit
